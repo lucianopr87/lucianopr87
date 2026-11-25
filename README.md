@@ -16,4 +16,4 @@ Full-stack developer and technical PM from Santa Fe, Argentina. 12+ years buildi
 
 ## Find me
 
-[Online CV](https://luciano-consulting.web.app/en/) · [LinkedIn](https://www.linkedin.com/in/luciano-perez-ruiz) · lucianopr87@gmail.com
+[Online CV](https://lucianoperezruiz.dev/en/) · [LinkedIn](https://www.linkedin.com/in/luciano-perez-ruiz) · lucianopr87@gmail.com
